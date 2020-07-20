@@ -11,7 +11,8 @@
 # Imports, libraries and code complexity
 
 1. CodeMetrics is an extension for VSCode
-2. import vs require syntax
-3. Different approaches to structure the code
+2. import vs require syntax: named export and default export
+3. Different approaches to structure the code in filesystem
 4. Using npm install
 5. Material UI
+6. Gitflow: master, development and feature branches
